@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/state-spaces/mamba/commit/e9594ce1c732d97440f0332fdc43170a2294dbfa",
       "git:hexsha": "e9594ce1c732d97440f0332fdc43170a2294dbfa",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/state-spaces/mamba/commit/33dc96c84926e58a392861d5ad9d2ee4f4f4a259",
